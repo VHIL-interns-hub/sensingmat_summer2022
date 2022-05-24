@@ -28,6 +28,11 @@ Hemachandran B
 - Time gap between two consecutive values reduced by removing sleep function call
 - Program is working as intended and values getting stored in the json file are being visualized properly
 ### Tuesday
+- Added functionality to accept command line arguments
+- Organized program and JSON file to run using command line
+- Created requirements file
+- Documented the program
+- updated files in repository
 ### Wednesday
 ### Thursday
 ### Friday
