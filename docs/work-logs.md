@@ -34,6 +34,11 @@ Hemachandran B
 - Documented the program
 - updated files in repository
 ### Wednesday
+- Studied concepts related to machine learning
+- **Assigned Task** to work on calculating metrics from consolidated JSON
+- Read documents on [paw labeling](http://www.flipserd.com/blog/page/1)
+- Went through possible solutions to identity feet from matrix values
+- Read documents on Eigenfaces approach
 ### Thursday
 ### Friday
 ### Saturday
