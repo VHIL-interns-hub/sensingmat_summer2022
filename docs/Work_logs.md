@@ -21,10 +21,20 @@ NISHA PRAKASH
 - Made prototype version of program to receive output from multiple mats and output into single JSON
 
 **Saturday**
+- Modified the program to make it more efficient and easier to use with multiple mats.
+- Tried different approach to store values in json.
 
 ## Week 2 [23 May 2022 - 28 May 2022]
 
 **Monday**
+-
+-
 
 **Tuesday**
+-Completed Documentation for the Pressure Sensing Mat.
+-Assigned new task of user authetication. Learned about MERN Stack.
+
+**Wednesday**
+
+**Thursday**
 
