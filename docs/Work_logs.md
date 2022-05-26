@@ -20,3 +20,11 @@ NISHA PRAKASH
 - Tested the program to recieve output from a single mat.
 - Made prototype version of program to receive output from multiple mats and output into single JSON
 
+**Saturday**
+
+## Week 2 [23 May 2022 - 28 May 2022]
+
+**Monday**
+
+**Tuesday**
+
