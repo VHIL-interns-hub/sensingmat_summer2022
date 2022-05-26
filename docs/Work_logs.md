@@ -31,8 +31,8 @@ NISHA PRAKASH
 -
 
 **Tuesday**
--Completed Documentation for the Pressure Sensing Mat.
--Assigned new task of user authetication. Learned about MERN Stack.
+- Completed Documentation for the Pressure Sensing Mat.
+- Assigned new task of user authetication. Learned about MERN Stack.
 
 **Wednesday**
 
