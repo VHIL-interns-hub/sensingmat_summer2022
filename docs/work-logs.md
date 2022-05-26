@@ -40,5 +40,8 @@ Hemachandran B
 - Went through possible solutions to identity feet from matrix values
 - Read documents on Eigenfaces approach
 ### Thursday
+- Read Concepts on Morphology in Image Processing
+- Searched for ways to identify size and orientation of foot
+- Tried to manually visualize pressure matrix
 ### Friday
 ### Saturday
