@@ -44,4 +44,8 @@ Hemachandran B
 - Searched for ways to identify size and orientation of foot
 - Tried to manually visualize pressure matrix
 ### Friday
+- Created python script to visualize pressure matrix in real-time
+- Tried to apply opening and erosion operations to remove unnecessary values [resulted in loss of pressure data - not viable]
+- Calculated local maxima to identify highest pressure points [Not perfect since multiple points are being calculated as local maxima]
+- Plotted the identified points in real-time along with pressure matrix plot
 ### Saturday
