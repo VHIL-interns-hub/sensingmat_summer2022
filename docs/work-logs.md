@@ -49,3 +49,6 @@ Hemachandran B
 - Calculated local maxima to identify highest pressure points [Not perfect since multiple points are being calculated as local maxima]
 - Plotted the identified points in real-time along with pressure matrix plot
 ### Saturday
+- Labelled pressure points using scipy library and extracted the object slices based on the labels 
+- Calculated regions of interest using the extracted objects and plotted the ROIs in real-time along with the pressure matrix
+- Started working on Eigenfaces Approach
