@@ -43,6 +43,8 @@ NISHA PRAKASH
 
 **Saturday**
 
+
+## Week 3 
 **Monday**
 - Had meeting with SERC Team.
 - Completed the User Authentication on given code.
