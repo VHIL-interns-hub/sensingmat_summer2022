@@ -52,3 +52,15 @@ Hemachandran B
 - Labelled pressure points using scipy library and extracted the object slices based on the labels 
 - Calculated regions of interest using the extracted objects and plotted the ROIs in real-time along with the pressure matrix
 - Started working on Eigenfaces Approach
+
+
+## Week 3 [30 May 2022 - 04 June 2022]
+### Monday
+- Had meeting with SERC Team
+- Temporarily stopped working on Eigenfaces as image data is to be built first
+- Built prototype of logging program which logs the json file into a html file with timestamps and images
+### Tuesday
+### Wednesday
+### Thursday
+### Friday
+### Saturday
