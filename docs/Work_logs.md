@@ -35,6 +35,15 @@ NISHA PRAKASH
 - Assigned new task of user authetication. Learned about MERN Stack.
 
 **Wednesday**
+- Completed online course on node js and express.
 
 **Thursday**
+
+**Friday**
+
+**Saturday**
+
+**Monday**
+- Completed the User Authentication on given code.
+- Studied about Swagger.
 
