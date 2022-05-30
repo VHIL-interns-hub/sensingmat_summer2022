@@ -44,6 +44,7 @@ NISHA PRAKASH
 **Saturday**
 
 **Monday**
+- Had meeting with SERC Team.
 - Completed the User Authentication on given code.
 - Studied about Swagger.
 
