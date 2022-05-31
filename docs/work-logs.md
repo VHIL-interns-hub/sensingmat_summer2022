@@ -61,7 +61,7 @@ Hemachandran B
 - Built prototype of logging program which logs the json file into a html file with timestamps and images
 ### Tuesday
 - Worked on formatting the html file with timestamps and images
-- search for methods to enable labelling images in log
+- Searched for methods to enable labelling images in log
 ### Wednesday
 ### Thursday
 ### Friday
