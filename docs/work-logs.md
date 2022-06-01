@@ -63,6 +63,10 @@ Hemachandran B
 - Worked on formatting the html file with timestamps and images
 - Searched for methods to enable labelling images in log
 ### Wednesday
+- Added user editable captions under images in html log
+- Modified html style for better usability
+- Added indicators when there is no image at a timestamp
+- Modified logging script to be able to run from command line
 ### Thursday
 ### Friday
 ### Saturday
