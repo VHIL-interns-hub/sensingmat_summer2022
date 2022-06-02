@@ -68,5 +68,7 @@ Hemachandran B
 - Added indicators when there is no image at a timestamp
 - Modified logging script to be able to run from command line
 ### Thursday
+- Modified logging script to make it easier to understand
+- Started documenting logging script
 ### Friday
 ### Saturday
