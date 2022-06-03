@@ -71,4 +71,6 @@ Hemachandran B
 - Modified logging script to make it easier to understand
 - Started documenting logging script
 ### Friday
+- Searched for ways to orient feet pressure data before being processed for eigenfaces approach 
+- Labelled pressure data images which can be used for eigenfaces approach
 ### Saturday
