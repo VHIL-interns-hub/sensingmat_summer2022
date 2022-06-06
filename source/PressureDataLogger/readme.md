@@ -30,3 +30,7 @@ The HTML file with timestamps and visualizations will get stored in the provided
 ## **Contributors**
 
 *Hemachandran B*
+
+## **Credits**
+
+[Dmitry Chaplinsky](https://github.com/dchaplinsky) - converter.py file is a modified version of the package / library [visual logging](https://github.com/dchaplinsky/visual-logging)
