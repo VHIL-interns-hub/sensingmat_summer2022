@@ -74,3 +74,15 @@ Hemachandran B
 - Searched for ways to orient feet pressure data before being processed for eigenfaces approach 
 - Labelled pressure data images which can be used for eigenfaces approach
 ### Saturday
+- Looked for methods to overcome issues when implementing Eigenfaces approach
+
+## Week 4 [06 June 2022 - 11 June 2022]
+### Monday
+- Updated script for logging pressure data in github along with requirements file 
+- Searched and found a method to overcome identification of foot pressure data at intial and final contact
+- Started implmentaion of the approach where ROI size is used to determine if eigenfaces can be applied at said timestamp
+### Tuesday
+### Wednesday
+### Thursday
+### Friday
+### Saturday
