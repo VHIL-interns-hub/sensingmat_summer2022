@@ -38,15 +38,46 @@ NISHA PRAKASH
 - Completed online course on node js and express.
 
 **Thursday**
+-Did User Authentication using hashing and salting.
+-Tried other methods too.
 
 **Friday**
+-Leaned about passport.js
+-Tried using passport.js to add cookies and sessions.
 
 **Saturday**
+-Same as Friday
 
 
-## Week 3 
+## Week 3  [30 May 2022 - 4 June 2022]
 **Monday**
 - Had meeting with SERC Team.
 - Completed the User Authentication on given code.
 - Studied about Swagger.
+**Tuesday**
+-Studied about REST API's
 
+**Wednesday**
+-React
+
+**Thursday**
+-React
+
+**Friday**
+-Taken holiday due to hackathon
+
+**Saturday**
+-Holiday due to hackathon
+
+## Week 4  [6 June 2022 -  2022]
+**Monday**
+
+**Tuesday**
+
+**Wednesday**
+
+**Thursday**
+
+**Friday**
+
+**Saturday**
