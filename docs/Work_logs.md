@@ -27,8 +27,12 @@ NISHA PRAKASH
 ## Week 2 [23 May 2022 - 28 May 2022]
 
 **Monday**
--
--
+-Checked different set of inputs and outputs to identify the correct way to format data matrix.
+- Orientations of visualizations were incorrect.
+- Changed configuration settings of json file to visualize values correctly.
+- Modified the way input is stored in the matrix when getting values from mat.
+- Time gap between two consecutive values reduced by removing sleep function call.
+- Program is working as intended and values getting stored in the json file are being visualized properly.
 
 **Tuesday**
 - Completed Documentation for the Pressure Sensing Mat.
