@@ -82,6 +82,7 @@ Hemachandran B
 - Searched and found a method to overcome identification of foot pressure data at intial and final contact
 - Started implmentaion of the approach where ROI size is used to determine if eigenfaces can be applied at said timestamp
 ### Tuesday
+- Worked on implementing the previosuly mentioned approach
 ### Wednesday
 ### Thursday
 ### Friday
