@@ -84,6 +84,14 @@ Hemachandran B
 ### Tuesday
 - Worked on implementing the previosuly mentioned approach
 ### Wednesday
+- Implemented prototype of the above method - calculated amount of time / time period the foot is being placed
+- Identified alternate method to apply eigenfaces on only complete foot 
+  - previously identified method depended on calculating roi with maximum area in the time period of the foot being placed in the mat
+  - In the new method, the pressure matrices in the time period of foot being placed can be added together and eigen faces can be applied on that
+  - Only initial part of the implementation is done for both the above methods
+- Another possible method to find stride length would be to assign labels such as foot 1 and foot 2 and just calculate stride length for pressure data with labels foot 1 / foot 2 instead of having to identify if the foot is left or right 
+- Created python script to convert text file with pressure data from 30x30 matrix into JSON file
+- Modified existing logging and visualizing program to make it work with 30x30 matrix data
 ### Thursday
 ### Friday
 ### Saturday
