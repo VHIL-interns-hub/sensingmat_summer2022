@@ -59,8 +59,8 @@ def find_foot(data, smooth_radius=5, threshold=0.0001):
     data = sp.ndimage.uniform_filter(data, smooth_radius)
     thresh = data > threshold
     filled = sp.ndimage.binary_fill_holes(thresh)
-    coded_paws, num_paws = sp.ndimage.label(filled)
-    data_slices = sp.ndimage.find_objects(coded_paws)
+    coded_foot, num_foot = sp.ndimage.label(filled)
+    data_slices = sp.ndimage.find_objects(coded_foot)
     return data_slices
 
 # get command line arguments
