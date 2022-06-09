@@ -93,5 +93,8 @@ Hemachandran B
 - Created python script to convert text file with pressure data from 30x30 matrix into JSON file
 - Modified existing logging and visualizing program to make it work with 30x30 matrix data
 ### Thursday
+- Started implementing the method to calculate stride length without identifying the foot
+- Calculated the path of travel by combining all the matrices and identifying the centers of roi of each foot
+- Calculated cadence from the combined data and timestamps
 ### Friday
 ### Saturday
