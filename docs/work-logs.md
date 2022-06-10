@@ -97,4 +97,7 @@ Hemachandran B
 - Calculated the path of travel by combining all the matrices and identifying the centers of roi of each foot
 - Calculated cadence from the combined data and timestamps
 ### Friday
+- Finished the above implementation with approximate results
+- Calculated approximate stride length by taking the center of roi and calculating distance between alternate foot centers
+- Have not identified / differentiated left or right foot and calculated only based on assumption that foot being placed in the mat are alternating
 ### Saturday
