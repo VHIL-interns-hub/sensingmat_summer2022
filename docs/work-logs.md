@@ -101,3 +101,5 @@ Hemachandran B
 - Calculated approximate stride length by taking the center of roi and calculating distance between alternate foot centers
 - Have not identified / differentiated left or right foot and calculated only based on assumption that foot being placed in the mat are alternating
 ### Saturday
+- Searched for methods to make stride length more accurate by using point of contact of heel instead of center of foot
+- Converted stride length from units of the matrix to cm
