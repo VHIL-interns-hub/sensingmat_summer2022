@@ -46,8 +46,8 @@ NISHA PRAKASH
 -Tried other methods too.
 
 **Friday**
--Leaned about passport.js
--Tried using passport.js to add cookies and sessions.
+- Learned about passport.js
+- Tried using passport.js to add cookies and sessions.
 
 **Saturday**
 -Same as Friday
