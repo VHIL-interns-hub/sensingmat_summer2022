@@ -68,20 +68,29 @@ NISHA PRAKASH
 -React
 
 **Friday**
--Taken holiday due to hackathon
+-Taken leave due to hackathon
 
 **Saturday**
--Holiday due to hackathon
+-Leave due to hackathon
 
-## Week 4  [6 June 2022 -  2022]
+## Week 4  [6 June 2022 - 11 JUne2022]
 **Monday**
+Leave
 
 **Tuesday**
+-Studied about API's
+-Discussed about the flow of web dev project with vivek sir and Snehashish.
+-Started working on Back-End
 
 **Wednesday**
+-Back-end work and React useState
 
 **Thursday**
+-Back-end working using postman.
+-Aunthentication and Cookie Generation
 
 **Friday**
+-Integration of React with NodeJS
+-Error debugging due to unnecassary command in package.json
 
 **Saturday**
