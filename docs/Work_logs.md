@@ -75,12 +75,12 @@ NISHA PRAKASH
 
 ## Week 4  [6 June 2022 - 11 JUne2022]
 **Monday**
-Leave
+-Leave
 
 **Tuesday**
--Studied about API's
--Discussed about the flow of web dev project with vivek sir and Snehashish.
--Started working on Back-End
+- Studied about API's
+- Discussed about the flow of web dev project with vivek sir and Snehashish.
+- Started working on Back-End
 
 **Wednesday**
 -Back-end work and React useState
