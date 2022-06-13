@@ -103,3 +103,16 @@ Hemachandran B
 ### Saturday
 - Searched for methods to make stride length more accurate by using point of contact of heel instead of center of foot
 - Converted stride length from units of the matrix to cm
+
+## Week 5 [13 June 2022 - 18 June 2022]
+### Monday
+- Worked on making stride length more accurate
+- Modified logging script to make it work with JSON file produced by sensing mat analytics software
+  - Data recorded by the software is of different orientation from the consolidating script
+  - The microseconds in timestamp stored by the software consists of varying digits while the consolidating script only uses microseconds upto 6 digits, this caused issue with parsing the timestamp
+- Created a python notebook file with logging and gait stance phase scripts in order to make it easier to use
+### Tuesday
+### Wednesday
+### Thursday
+### Friday
+### Saturday
