@@ -114,6 +114,10 @@ Hemachandran B
 ### Tuesday
 - Sick - Day Off
 ### Wednesday
+- Worked on making stride length more accurate - found an issue where the initial or final timings of a step are not accurate
+- Encountered issue with logging program when using json file from sensing mat analytics software - number of digits in timestamps vary - made a function to correct the digits
+- Added timestamp to stance phase timings
+- Identified inaccuracy in stance phase reading - should be corrected along with step accuracy
 ### Thursday
 ### Friday
 ### Saturday
