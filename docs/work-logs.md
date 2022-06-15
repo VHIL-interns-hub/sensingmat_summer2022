@@ -112,6 +112,7 @@ Hemachandran B
   - The microseconds in timestamp stored by the software consists of varying digits while the consolidating script only uses microseconds upto 6 digits, this caused issue with parsing the timestamp
 - Created a python notebook file with logging and gait stance phase scripts in order to make it easier to use
 ### Tuesday
+- Sick - Day Off
 ### Wednesday
 ### Thursday
 ### Friday
