@@ -119,5 +119,8 @@ Hemachandran B
 - Added timestamp to stance phase timings
 - Identified inaccuracy in stance phase reading - should be corrected along with step accuracy
 ### Thursday
+- Corrected the intial and final readings of every step by checking for non zero readings in the region of the step at the start and end of duration
+- Calculated the highest pressure point at the start of a step to measure stride length more accurately
+- Improved stride length accuracy using higest pressure point reading. However, there is an issue where the heel might not be the highest pressure point at the start of a step therefore making the stride length measure a bit inaccurate
 ### Friday
 ### Saturday
