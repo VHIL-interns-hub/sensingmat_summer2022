@@ -123,4 +123,6 @@ Hemachandran B
 - Calculated the highest pressure point at the start of a step to measure stride length more accurately
 - Improved stride length accuracy using higest pressure point reading. However, there is an issue where the heel might not be the highest pressure point at the start of a step therefore making the stride length measure a bit inaccurate
 ### Friday
+- Searched for methods to overcome issue where pressure point other than heel is being chosen for stride length
+- Calculated stride velocity using distance of each stride and time taken
 ### Saturday
