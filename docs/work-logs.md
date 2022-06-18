@@ -126,3 +126,4 @@ Hemachandran B
 - Searched for methods to overcome issue where pressure point other than heel is being chosen for stride length
 - Calculated stride velocity using distance of each stride and time taken
 ### Saturday
+- Studied about stride length due to an issue - when walking in a straight path and making a 180 degree turn to walk again, the stride length calculation is getting affected since the distance between the two steps are very less. Therefore, searched for possible methods to eliminate this issue.
