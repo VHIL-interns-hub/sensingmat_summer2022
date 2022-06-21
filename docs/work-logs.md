@@ -127,3 +127,18 @@ Hemachandran B
 - Calculated stride velocity using distance of each stride and time taken
 ### Saturday
 - Studied about stride length due to an issue - when walking in a straight path and making a 180 degree turn to walk again, the stride length calculation is getting affected since the distance between the two steps are very less. Therefore, searched for possible methods to eliminate this issue.
+
+## Week 6 [20 June 2022 - 25 June 2022]
+### Monday
+- Worked on calculating swing phase of gait cycle
+- Made the gait metrics more presentable
+### Tuesday
+- Worked on calculating gait cycle percentage and averages
+- tested the programs with 3 mats connected
+- identified issue with calculating metrics when person walks out of the mat and walks in again resulting in irregular order of foot
+- Made gait cycle values more accurate by similar method used for stride length
+- Started consolidating all separate scripts into single program
+### Wednesday
+### Thursday
+### Friday
+### Saturday
