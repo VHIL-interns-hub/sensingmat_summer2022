@@ -139,6 +139,8 @@ Hemachandran B
 - Made gait cycle values more accurate by similar method used for stride length
 - Started consolidating all separate scripts into single program
 ### Wednesday
+- Consolidated all separate scripts into single program
+- Worked on reducing redundant code and making the code modular
 ### Thursday
 ### Friday
 ### Saturday
