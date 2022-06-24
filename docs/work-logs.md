@@ -80,7 +80,7 @@ Hemachandran B
 ### Monday
 - Updated script for logging pressure data in github along with requirements file 
 - Searched and found a method to overcome identification of foot pressure data at intial and final contact
-- Started implmentaion of the approach where ROI size is used to determine if eigenfaces can be applied at said timestamp
+- Started implementaion of the approach where ROI size is used to determine if eigenfaces can be applied at said timestamp
 ### Tuesday
 - Worked on implementing the previosuly mentioned approach
 ### Wednesday
@@ -142,5 +142,6 @@ Hemachandran B
 - Consolidated all separate scripts into single program
 - Worked on reducing redundant code and making the code modular
 ### Thursday
+- Srishti intern field trip - Day Off
 ### Friday
 ### Saturday
