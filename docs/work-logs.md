@@ -144,4 +144,7 @@ Hemachandran B
 ### Thursday
 - Srishti intern field trip - Day Off
 ### Friday
+- Had meeting with SERC Team
+- Created an executable file of the metrics script
+- Started implementation to overcome issue where a person walking out of the mat and then into it again can cause incorrect metrics
 ### Saturday
