@@ -148,3 +148,5 @@ Hemachandran B
 - Created an executable file of the metrics script
 - Started implementation to overcome issue where a person walking out of the mat and then into it again can cause incorrect metrics
 ### Saturday
+- Modified the program to check for when the person walks out of the mat and separate the matrices into different runs based on that
+- Calculated the metrics for each run individually from the separated matrices
