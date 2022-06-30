@@ -150,3 +150,14 @@ Hemachandran B
 ### Saturday
 - Modified the program to check for when the person walks out of the mat and separate the matrices into different runs based on that
 - Calculated the metrics for each run individually from the separated matrices
+
+## Week 7 [27 June 2022 - 30 June 2022]
+### Monday
+- Worked on Multiple Runs Program
+### Tuesday
+- Worked on Multiple Runs Program
+### Wednesday
+- Started Documenting metrics program
+### Thursday
+- Completed implementation of multiple runs program
+- created executable files for programs
