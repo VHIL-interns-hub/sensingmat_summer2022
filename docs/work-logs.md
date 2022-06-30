@@ -1,10 +1,7 @@
 # Sensing Mat
 Hemachandran B
 
-## Week 1 [16 May 2022 - 21 May 2022]
-### Monday
-### Tuesday
-### Wednesday
+## Week 1 [19 May 2022 - 21 May 2022]
 ### Thursday
 - Met Supervisor 
 - Got Introduced to the Project
